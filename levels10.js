@@ -5,3 +5,6 @@ function add(a, b) {
 
 let result = add(5, 10);
 document.getElementById("result").innerHTML = "The result is: " + result;
+
+
+//what goes on here is that function add will apply addition to the indicated number// 

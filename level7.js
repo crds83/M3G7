@@ -5,3 +5,4 @@ if (number > 5) {
 } else {
     document.getElementById("message").innerHTML = "Number is 5 or less";
 }
+//just as I suspected, the value changes according on the page when it is altered by either a number more or less than 5//
